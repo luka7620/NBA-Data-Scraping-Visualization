@@ -18,7 +18,7 @@ env/
 *~
 
 # 输出数据文件
-output/
+# output/
 
 # 日志文件
 *.log
